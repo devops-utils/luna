@@ -218,7 +218,7 @@ export class ElementNavComponent implements OnInit {
         }
       ]
     },
-      {
+      /*{
         id: 'Help',
         name: 'Help',
         children: [
@@ -238,7 +238,7 @@ export class ElementNavComponent implements OnInit {
             name: 'Tool download',
           }
         ]
-      },
+      },*/
     ];
   }
   Setting() {
